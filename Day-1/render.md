@@ -3,7 +3,7 @@ block diagram. Every block should be explained in your own
 words.List down all the names of JS engines and their creators.
 
 ```mermaid
-graph LR
+graph LR;
 A[HTML] --> B(parsing)
 C[CSS] --> D(parsing)
 B --> E[Attachment]
